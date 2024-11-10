@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4786904c-0050-4d0f-85f7-0af2dfac782f)# Java PACMAN Game
+# Java PACMAN Game
 
 This project is a classic PACMAN game implemented in Java, showcasing strong Object-Oriented Programming (OOP) techniques. The game features multiple levels, each increasing in difficulty with more complex labyrinths and faster, more intelligent ghosts that follow PACMAN. 
 
